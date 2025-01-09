@@ -1,2 +1,2 @@
 from colorama import *
-print(RED + "HH")
+print(Color.RED + "HH")
